@@ -11,3 +11,19 @@ This repository contains our assignment submissions for the course CS330A : Oper
 * `waitpid(int pid, uint64 ptr)` : waits for the child with given pid to end
 * `ps()` : prints information like : start time, end time (if ended), execution time, memory allocated, etc. for the currently running process
 * `pinfo()`
+
+## Assignment-2
+
+### Implemented Scheduling Algorithms
+
+* Non-Preemptive First Come First Serve
+* Non-Preemptive Shortest Job First
+* Preemptive Round Robin
+* Preemptive UNIX-based Scheduling
+
+## Assignment-3
+
+### Added functions to enhance synchronization
+
+* Implemented Condition variables
+* Implemented Semaphores
