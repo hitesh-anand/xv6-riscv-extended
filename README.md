@@ -12,6 +12,8 @@ This repository contains our assignment submissions for the course CS330A : Oper
 * `ps()` : prints information like : start time, end time (if ended), execution time, memory allocated, etc. for the currently running process
 * `pinfo()`
 
+Implementation details along with test results are mentioned in `Report_1.pdf`
+
 ## Assignment-2
 
 ### Implemented Scheduling Algorithms
@@ -21,9 +23,13 @@ This repository contains our assignment submissions for the course CS330A : Oper
 * Preemptive Round Robin
 * Preemptive UNIX-based Scheduling
 
+Implementation details along with test results are mentioned in `Report_2.pdf`
+
 ## Assignment-3
 
 ### Added functions to enhance synchronization
 
 * Implemented Condition variables
 * Implemented Semaphores
+
+Implementation details along with test results are mentioned in `Report_3.pdf`
