@@ -33,3 +33,10 @@ Implementation details along with test results are mentioned in `Report_2.pdf`
 * Implemented Semaphores
 
 Implementation details along with test results are mentioned in `Report_3.pdf`
+
+## Teammates
+
+* Hitesh Anand
+* Arnav Gupta
+* Mandar Wayal
+* Kushagra Sharma
