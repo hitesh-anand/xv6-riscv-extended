@@ -1,6 +1,6 @@
-#Assignment-1
+# Assignment-1
 
-##Added new system calls
+## Added new system calls
 * getppid() : returns the pid of the parent process of the currently running process
 * yield() : currently running process gives up the CPU for one scheduling round
 * getpa(void* va) :  given a virtual address, returns the corresponding physical address
